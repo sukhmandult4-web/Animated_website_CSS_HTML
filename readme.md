@@ -151,13 +151,14 @@ While building this project, I improved my understanding of:
 
 ### GitHub
 
-https://github.com/sukhmandult4-web
+[![GitHub](https://img.shields.io/badge/GitHub-sukhmandult4--web-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sukhmandult4-web)
+
 
 ---
 
 ### Portfolio
 
-https://sukhcodes.netlify.app
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](https://sukhcodes.netlify.app)
 
 ---
 
