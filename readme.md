@@ -35,42 +35,24 @@ SpaceScape is a responsive front-end project that combines elegant layouts, smoo
 
 ## 🛰️ Landing Page
 
-> Add your first screenshot here
-
-```md
-/assets/landing-page.png
-```
-
----
+![Landing Page](assets/landing-page.png)
 
 ## 🌌 Space Collections
 
-> Add your second screenshot here
-
-```md
-/assets/collection.png
-```
+![Collection](assets/collection.png)
 
 ---
 
 ## ✨ Interactive Gallery
 
-> Add your third screenshot here
-
-```md
-/assets/gallery.png
-```
+![Gallery](assets/gallery.png)
 
 ---
 
 ## 🌠 Footer
 
-> Add your footer screenshot here
-
-```md
-/assets/footer.png
-```
-
+  ![Footer](assets/footer.png)
+  
 ---
 
 # 📂 Project Structure
