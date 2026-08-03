@@ -125,7 +125,7 @@ While building this project, I improved my understanding of:
 | Responsive | 🟡 Improving |
 | Animations | ✅ |
 | Accessibility | 🟡 Improving |
-| JavaScript | ❌ Not Used |
+
 
 ---
 
