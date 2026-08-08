@@ -21,7 +21,7 @@ SpaceScape is a responsive front-end project that combines elegant layouts, smoo
 - 🎯 Clean and semantic HTML
 - ⚡ Pure CSS animations (No JavaScript)
 
----
+
 
 ## 🛠️ Built With
 
@@ -136,7 +136,7 @@ While building this project, I improved my understanding of:
 [![GitHub](https://img.shields.io/badge/GitHub-sukhmandult4--web-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sukhmandult4-web)
 
 
----
+
 
 ### Portfolio
 
