@@ -2,7 +2,7 @@
 
 > A modern, animation-rich landing page inspired by the beauty of space, built with pure HTML and CSS.
 
----
+
 
 ## 🌌 Overview
 
