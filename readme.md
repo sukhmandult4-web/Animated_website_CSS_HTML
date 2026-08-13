@@ -8,7 +8,7 @@
 
 SpaceScape is a responsive front-end project that combines elegant layouts, smooth hover interactions, animated sections and a clean aesthetic inspired by the universe. The goal of this project was to strengthen my CSS skills while recreating a premium landing page experience.
 
----
+
 
 ## ✨ Features
 
