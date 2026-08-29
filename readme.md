@@ -22,6 +22,7 @@ SpaceScape is a responsive front-end project that combines elegant layouts, smoo
 - 🎯 Clean and semantic HTML
 - ⚡ Pure CSS animations (No JavaScript)
 
+---
 
 
 ## 🛠️ Built With
