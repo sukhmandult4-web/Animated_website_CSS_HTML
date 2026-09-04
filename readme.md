@@ -31,7 +31,7 @@ SpaceScape is a responsive front-end project that combines elegant layouts, smoo
 <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github" />
 </p>
 
-
+---
 
 # 📸 Preview
 
